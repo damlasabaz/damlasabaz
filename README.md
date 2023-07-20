@@ -1,3 +1,5 @@
+
+
 <h1 align="left">Hi, I'm Damla Sabaz 🌸 </h1>
 
 <h3 align="left"> 🖥 A Front-End developer from Turkey</h3>
@@ -18,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damlasabaz&show_icons=true&locale=en" alt="damlasabaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damlasabaz&" alt="damlasabaz" /></p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
