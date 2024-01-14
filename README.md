@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Damla Sabaz 🌸 </h1>
 
-<h3  align="left">I am currently a 4th-year computer engineering student, and I will graduate in 2025. I previously completed a computer programming program in 2018. I am continuously improving my skills in coding and learning about design and Front-End development. </h3>
+<h3  align="left">I am currently a 4th-year computer engineering student, and I will graduate in 2024. I previously completed a computer programming program in 2018. I am continuously improving my skills in coding and learning about design and Front-End development. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
